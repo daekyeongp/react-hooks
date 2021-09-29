@@ -4,7 +4,7 @@
 
 ### 2. Info.js
 * 👉  [[React] 10. Hooks (1)](https://velog.io/@daekyeong/React-10.-Hooks-1)
-* 
+
 ### 3. EffectInfo.js
 * 👉  [[React] 10. Hooks (1)](https://velog.io/@daekyeong/React-10.-Hooks-1)
 
