@@ -14,6 +14,20 @@
 ### 5. InputInfo.js
 * 👉  [[React] 10. Hooks (1)](https://velog.io/@daekyeong/React-10.-Hooks-1)
 
+### 6. Average.js
+* 👉  [[React] 11. Hooks (2)](https://velog.io/@daekyeong/React-10.-Hooks-2)
+
+### 7. MemoAverage.js
+* 👉  [[React] 11. Hooks (2)](https://velog.io/@daekyeong/React-10.-Hooks-2)
+
+### 8. CallbackAverage.js
+* 👉  [[React] 11. Hooks (2)](https://velog.io/@daekyeong/React-10.-Hooks-2)
+
+### 9. CustomInputs.js
+* 👉  [[React] 11. Hooks (2)](https://velog.io/@daekyeong/React-10.-Hooks-2)
+
+### 10. CustomInfo.js
+* 👉  [[React] 11. Hooks (2)](https://velog.io/@daekyeong/React-10.-Hooks-2)
 
 ---
 
